@@ -1,0 +1,23 @@
+{
+  "name": "concurrency-server",
+  "version": "0.0.1",
+  "description": "A test server for Elixir Concurrency tutorials",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrainBuzzer/Elixir-Tutorials.git"
+  },
+  "author": "Aditya Giri <dtrg21@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrainBuzzer/Elixir-Tutorials/issues"
+  },
+  "homepage": "https://github.com/BrainBuzzer/Elixir-Tutorials#readme",
+  "dependencies": {
+    "geo-tz": "^5.0.1",
+    "hapi": "^18.1.0"
+  }
+}
